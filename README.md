@@ -1,7 +1,7 @@
 This Organisation has 4 repositories uploaded so Far.
 
 godio-google-watson
-godio-google-watson uses google speech API and IBM watson API to find instances of God in the .mp3
+uses google speech API and IBM watson API to find instances of God in the .mp3
 file.
 
 
