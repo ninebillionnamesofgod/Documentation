@@ -4,8 +4,6 @@ godio-google-watson
 uses google speech API and IBM watson API to find instances of God in the .mp3
 file.
 
-
-
 godupload is a python script which updates the index.html every sunday
 with a new .mp3
 
@@ -22,6 +20,6 @@ StyleTransfer
 StyleTransfer uses the images extracted from the Video Files at the
 point where 'God' is uttered.
 At this point, it used Microsoft's Cognitive Toolkit to classify
-images- It can now classify wheather the person is alone when the
+images- It can now classify wheather the person is alone when they
 utter the word 'God' or with another person.
 
